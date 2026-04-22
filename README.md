@@ -43,4 +43,4 @@ This laboratory is currently in **Phase 0**. We are refining the core mathematic
 > "Safety is not an attribute; it is the geometry of the code."
 
 ---
-© 2026 **GRADIBORD s.r.o.** | [gradibord.ai](https://gradibord.ai)
+© 2026 **GRADIBORD s.r.o.** | [gradibord.com](https://gradibord.com)
